@@ -3,3 +3,6 @@ numpy
 matplotlib
 jupyter
 statsmodels
+scikit-learn
+seaborn
+tensorflow
